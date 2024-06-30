@@ -1,0 +1,43 @@
+body {
+  background-color:rgb(185, 217, 245);
+  margin-left: 30%;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.gatinho {
+  width: 200px;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 300px;
+  border-radius: 50px;
+  border: 5px solid aliceblue;
+  }
+  
+.gatinha {
+  width: 100px;
+  position: absolute;
+  margin: 70px 100px;
+  border-radius: 10px;
+  border: 5px dotted pink;
+}
+  
+.frase {
+  font-size: 30px;
+  position: absolute;
+  margin-top: -150px;
+  margin-left: 330px;
+  color:darksalmon
+}
+  
+.pensamento {
+  width: 400px;
+  position: absolute;
+}
+
+.coracao {
+  width: 300px;
+}
