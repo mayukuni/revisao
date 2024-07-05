@@ -16,3 +16,5 @@ paiDoFilho.appendChild(outroFilho)
 // A partir desse filho criado, acesse terceiroFilho.
 let terceiro = outroFilho.parentNode.parentNode.nextSibling.nextSibling
 console.log(terceiro);
+// Remover filho do elemento primeiroFilhoDoFilho
+paiDoFilho.removeChild(outroFilho)
